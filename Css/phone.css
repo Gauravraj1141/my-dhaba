@@ -1,0 +1,109 @@
+/* isme hame width :1337px ke bad sare changes dekhne ko milenge
+ */
+
+/* navbar section */
+#navbar {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#navbar ul {
+    justify-content: center;
+    margin: 22px 1px;
+}
+
+#navbar ul li a {
+    margin: 23px 3px !important;
+    padding: 0px 3px !important;
+    font-size: 1rem !important;
+
+}
+
+
+
+/* Home section */
+#Home {
+    height: 550px !important;
+}
+
+#Home::before {
+    height: 694px !important;
+}
+
+#Home-Heading {
+
+    font-size: 2rem !important;
+
+}
+
+#Home p {
+    font-size: 1rem !important;
+}
+
+
+
+/* services section */
+
+
+#services {
+    display: flex;
+    flex-direction: column;
+}
+
+#services .box {
+    margin: 42px 2px !important;
+    height: 448px !important;
+}
+
+#services .box img {
+    width: 195px !important;
+    height: 178px !important;
+}
+
+
+/* clients section */
+#clients {
+    height: 511px !important;
+}
+
+#clients::before {
+    height: 472px !important;
+}
+
+.client-img {
+    padding: 12px 10px !important;
+    margin: 10px !important;
+}
+
+.logo {
+    flex-wrap: wrap;
+}
+
+.logo img {
+    height: 3rem !important;
+}
+
+.heading-size {
+    font-size: 2rem !important;
+}
+
+
+
+
+
+/* contact section */
+.c-box {
+    width: 16rem !important;
+}
+
+
+/* Footer section */
+
+
+
+
+
+/* utility section */
